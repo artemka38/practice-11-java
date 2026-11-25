@@ -1,0 +1,11 @@
+inn;name;email;expected
+7701234567;Alpha LLC;office@alpha.ru;OK
+123;Bad Inn;bad@example.com;ERROR
+781234567890;Beta Inc;info@beta.com;OK
+7700000000;No Mail;wrongmail;ERROR
+7701234567;Duplicate Alpha;duplicate@example.com;ERROR
+9901234567;Gamma LLC;gamma@example.com;OK
+123456789012;Delta LLC;delta@example.com;OK
+9901234567;Duplicate Gamma;gamma2@example.com;ERROR
+555;Short INN;short@example.com;ERROR
+1112223334;Valid Last;last@example.com;OK
